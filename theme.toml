@@ -1,12 +1,11 @@
-name = "Hugo Profile"
+name = "Muhammad Shamim's personal website"
 license = "MIT"
-licenselink = "https://github.com/gurusabarish/hugo-profile/blob/master/LICENSE"
-description = "A high performance and mobile first hugo template for personal portfolio and blog."
-homepage = "https://github.com/gurusabarish/hugo-profile"
-demosite = "https://hugo-profile.netlify.app"
+description = "A high performance and mobile fast personal portfolio and blog."
+homepage = "https://github.com/xeinshamim/muhammadshamim.com"
+demosite = "https://xeinshamim.netlify.app"
 tags = ["Responsive","Blog", "Portfolio", "Personal"]
-min_version = "0.68.0"
+min_version = "0.9"
 
 [author]
-  name = "Gurusabarish"
-  homepage = "https://www.linkedin.com/in/gurusabarish/"
+  name = "Muhammad Shamim"
+  homepage = "https://www.linkedin.com/in/xeinshamim/"
